@@ -66,4 +66,4 @@ Watch FurFeeder in action: https://youtu.be/EMwhCCRMcPY
 
 ## Full Instructions
 
-For the complete step-by-step guide including wiring, build instructions and AWS setup, refer to the full instructional manual: [PDS AWS IoT assignment.pdf](https://github.com/user-attachments/files/26096341/PDS.AWS.IoT.assignment.pdf)
+For the complete step-by-step guide including wiring, build instructions and AWS setup, refer to the full instructional manual: [Furfeeder Instructional Manual.pdf](https://github.com/user-attachments/files/26096408/Furfeeder.Instructional.Manual.pdf)
